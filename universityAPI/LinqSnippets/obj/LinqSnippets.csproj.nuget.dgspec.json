@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\universityAPI\\LinqSnippets\\LinqSnippets.csproj": {}
+    "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\.Net_Deploy\\universityAPI\\LinqSnippets\\LinqSnippets.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\universityAPI\\LinqSnippets\\LinqSnippets.csproj": {
+    "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\.Net_Deploy\\universityAPI\\LinqSnippets\\LinqSnippets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\universityAPI\\LinqSnippets\\LinqSnippets.csproj",
+        "projectUniqueName": "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\.Net_Deploy\\universityAPI\\LinqSnippets\\LinqSnippets.csproj",
         "projectName": "LinqSnippets",
-        "projectPath": "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\universityAPI\\LinqSnippets\\LinqSnippets.csproj",
+        "projectPath": "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\.Net_Deploy\\universityAPI\\LinqSnippets\\LinqSnippets.csproj",
         "packagesPath": "C:\\Users\\GabrielAlfredoHernan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\universityAPI\\LinqSnippets\\obj\\",
+        "outputPath": "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\.Net_Deploy\\universityAPI\\LinqSnippets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GabrielAlfredoHernan\\AppData\\Roaming\\NuGet\\NuGet.Config",
