@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\universityAPI\\universityAPI\\universityAPI.csproj": {}
+    "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\.Net_Deploy\\universityAPI\\universityAPI\\universityAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\universityAPI\\universityAPI\\universityAPI.csproj": {
+    "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\.Net_Deploy\\universityAPI\\universityAPI\\universityAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\universityAPI\\universityAPI\\universityAPI.csproj",
+        "projectUniqueName": "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\.Net_Deploy\\universityAPI\\universityAPI\\universityAPI.csproj",
         "projectName": "universityAPI",
-        "projectPath": "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\universityAPI\\universityAPI\\universityAPI.csproj",
+        "projectPath": "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\.Net_Deploy\\universityAPI\\universityAPI\\universityAPI.csproj",
         "packagesPath": "C:\\Users\\GabrielAlfredoHernan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\universityAPI\\universityAPI\\obj\\",
+        "outputPath": "C:\\Users\\GabrielAlfredoHernan\\Documents\\ASP.NET\\Tutos\\Backend\\.Net_Deploy\\universityAPI\\universityAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GabrielAlfredoHernan\\AppData\\Roaming\\NuGet\\NuGet.Config",

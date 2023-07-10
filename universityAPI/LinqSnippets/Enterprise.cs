@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LinqSnippets
 {
-    internal class Enterprise
+    public class Enterprise
     {
         public int Id { get; set; }
         public string? Name { get; set; }
