@@ -496,3 +496,5 @@ C:\Users\GabrielAlfredoHernan\Documents\ASP.NET\Tutos\Backend\.Net_Deploy\univer
 C:\Users\GabrielAlfredoHernan\Documents\ASP.NET\Tutos\Backend\.Net_Deploy\universityAPI\universityAPI\obj\Debug\net6.0\universityAPI.pdb
 C:\Users\GabrielAlfredoHernan\Documents\ASP.NET\Tutos\Backend\.Net_Deploy\universityAPI\universityAPI\obj\Debug\net6.0\universityAPI.genruntimeconfig.cache
 C:\Users\GabrielAlfredoHernan\Documents\ASP.NET\Tutos\Backend\.Net_Deploy\universityAPI\universityAPI\obj\Debug\net6.0\ref\universityAPI.dll
+C:\Users\GabrielAlfredoHernan\Documents\ASP.NET\Tutos\Backend\.Net_Deploy\universityAPI\universityAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\GabrielAlfredoHernan\Documents\ASP.NET\Tutos\Backend\.Net_Deploy\universityAPI\universityAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
