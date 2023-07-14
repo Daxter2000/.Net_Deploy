@@ -53,15 +53,22 @@ namespace universityAPI.Controllers
             {
                 var Token = new UserTokens();
 
-                var Valid = Logins.Any(user => user.UserName.Equals(userLogin.UserName, StringComparison.OrdinalIgnoreCase));
-                if (Valid)
+                //TOD search a user in context with LinQ
+
+                var searchUser = (from user in _context.Users
+                                 where user.Email == userLogin.Email && user.Password == userLogin.Password
+                                 select user).FirstOrDefault();
+
+                Console.WriteLine(searchUser);
+
+
+                if ( searchUser != null)
                 {
-                    var user = Logins.FirstOrDefault(user => user.UserName.Equals(userLogin.UserName, StringComparison.OrdinalIgnoreCase));
                     Token = JWTHelpers.GenTokenKey(new UserTokens()
                     {
-                        UserName = user.UserName,
-                        EmailId = user.Email,
-                        Id = user.Id,
+                        UserName = searchUser.UserName,
+                        EmailId = searchUser.Email,
+                        Id = searchUser.Id,
                         GuidId = Guid.NewGuid()
                     }, _jwtSettings);
 
